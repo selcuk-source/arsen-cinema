@@ -1,11 +1,9 @@
 streamlit
-manim
 moviepy<2.0.0
 edge-tts
-opencv-python
+opencv-python-headless
 pillow
 numpy
-gradio_client
-requests
 plotly
+requests
 nbformat
