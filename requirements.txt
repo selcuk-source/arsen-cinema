@@ -1,0 +1,11 @@
+streamlit
+manim
+moviepy<2.0.0
+edge-tts
+opencv-python
+pillow
+numpy
+gradio_client
+requests
+plotly
+nbformat
